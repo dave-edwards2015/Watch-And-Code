@@ -2,7 +2,7 @@
 
 I have had many issues and errors try to push these files upto github
 
-It through this errot 
+
 $ git push origin master
 To github.com:dave-edwards2015/Watch-And-Code.git
  ! [rejected]        master -> master (non-fast-forward)
